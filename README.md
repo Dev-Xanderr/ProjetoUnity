@@ -17,7 +17,7 @@ A **physics-based driving simulation** developed as the final project for the co
 - **Interactive City Environment**: Collide with objects, mount curbs, and navigate city streets
 - **Smooth Controls**: Responsive keyboard/controller input for precise driving
 
-### 🎯 User Experience
+### User Experience
 - **Intuitive Menu System**: Easy navigation between game states
 - **Quick Restart**: Instantly restart your session without losing progress
 - **Seamless Transitions**: Smooth gameplay flow with optimized loading
