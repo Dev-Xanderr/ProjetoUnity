@@ -1,18 +1,18 @@
-# 🚗 Simple City Car Game
+# Simple City Car Game
 
 [![Unity](https://img.shields.io/badge/Unity-2023.x-black?style=flat-square&logo=unity)](https://unity.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 
-## 📖 Overview
+##  Overview
 
 A **physics-based driving simulation** developed as the final project for the course "Introduction to Game Design and Development." Experience realistic car physics as you navigate through a detailed city environment with interactive objects and obstacles.
 
 ![Game Preview](assets/game-preview.gif)
 
-## ✨ Features
+## Features
 
-### 🎮 Core Gameplay
+### Core Gameplay
 - **Realistic Physics Engine**: Advanced car physics with proper acceleration, braking, and momentum
 - **Interactive City Environment**: Collide with objects, mount curbs, and navigate city streets
 - **Smooth Controls**: Responsive keyboard/controller input for precise driving
@@ -22,7 +22,7 @@ A **physics-based driving simulation** developed as the final project for the co
 - **Quick Restart**: Instantly restart your session without losing progress
 - **Seamless Transitions**: Smooth gameplay flow with optimized loading
 
-## 🎲 How to Play
+## How to Play
 
 ### Controls
 | Action | Key |
@@ -40,7 +40,7 @@ A **physics-based driving simulation** developed as the final project for the co
 3. **Interact with objects** - bump into obstacles, climb curbs, explore!
 4. **Use the menu** to restart or return to the main screen
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Built With
 - **Unity Game Engine** - Core development platform
@@ -52,7 +52,7 @@ A **physics-based driving simulation** developed as the final project for the co
 - **Scene Management**: Efficient loading and transitions
 - **UI Framework**: Clean, responsive menu system
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Unity 2023.x or later
@@ -93,7 +93,7 @@ A **physics-based driving simulation** developed as the final project for the co
 └── README.md
 ```
 
-## 🎯 Future Enhancements
+## Future Enhancements
 
 - [ ] Multiple city environments
 - [ ] Traffic AI system
@@ -102,7 +102,7 @@ A **physics-based driving simulation** developed as the final project for the co
 - [ ] Multiplayer support
 - [ ] Mobile platform support
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -112,18 +112,18 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## Author
 
 **Alexandre Martins**
 - GitHub: [@alexandre-martins](https://github.com/alexandre-martins)
 - LinkedIn: [Alexandre Martins](https://linkedin.com/in/alexandre-martins)
 - Email: m.xander.tech@gmail.com
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Course faculty for guidance and support
 - Unity community for resources and tutorials
@@ -132,4 +132,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-⭐ **Star this repository** if you found it helpful!
+ **Star this repository** if you found it helpful!
