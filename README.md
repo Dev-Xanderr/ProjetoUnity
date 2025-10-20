@@ -61,8 +61,7 @@ A **physics-based driving simulation** developed as the final project for the co
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/simple-city-car-game.git
-   cd simple-city-car-game
+   git clone https://github.com/Dev-Xanderr/ProjetoUnity.git
    ```
 
 2. **Open in Unity**
